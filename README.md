@@ -1,4 +1,5 @@
 # [iOS/Swift] SnapKit을 이용한 autoLayout
+* 관련 내용은 https://minkyoung.tistory.com/2?category=0 에서 확인할 수 있습니다. 
 ## Prerequisite
 * XCode Version 13.2.1에서 개발을 진행한다.
 * SnapKit을 설치한다.
